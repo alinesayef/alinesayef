@@ -1,7 +1,7 @@
 # Hi, I'm Ali 👋  
 I'm a computer professional interested in AI, cryptography, and building powerful tools.
 
-<!--
+<details>
 Public Keys/Certificates
 Ali_Nesayef-GPG_Public_Key
 PGP: 542D 5D5F 1746 1058 8295 5589 AC7E A785 98F1 5EFA
@@ -13,4 +13,4 @@ MD5: 6F:B3:BD:9B:8D:86:51:4C:56:31:E8:CF:B5:3B:85:B4
 SHA-1: DC:AC:C0:27:CF:BA:01:34:BC:5E:EC:20:91:F4:04:12:3C:FD:38:19
 SHA-256: 6C:C1:69:D2:83:6F:F4:DC:A6:98:7F:E1:FC:34:26:48:4E:C5:6F:59:AA:7A:E0:B5:E8:98:DA:FB:D4:1D:3F:9B
 SHA3-256: C5:B3:5E:A0:D4:B6:C8:60:66:E3:07:2C:14:07:AB:7F:9F:A3:D6:5C:39:41:11:E0:4E:55:4B:7D:34:39:B8:25
--->
+</details>

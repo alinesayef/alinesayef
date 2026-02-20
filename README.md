@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm Ali, I'm interested in AI, cryptography and building powerful tools.
+I'm Ali, I'm interested in AI and building powerful tools.
